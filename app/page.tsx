@@ -1021,7 +1021,7 @@ export default function Home() {
                 <CardTitle className="text-xl">Professional Website</CardTitle>
 
                 <div className="mt-4">
-                  <span className="text-5xl font-bold text-primary">$499</span>
+                  <span className="text-5xl font-bold text-primary">$799</span>
                 </div>
               </CardHeader>
 
